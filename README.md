@@ -8,10 +8,9 @@ Valhalla Foundation Bot is a tool for automating the completion and claiming of 
 - Supports multiple accounts via bearer tokens.
 
 ## Installation
-1. Clone the repository:
+1. Truy cập workspace (workpace sẽ tự Clone repository)
     ```bash
-    git clone https://github.com/dante4rt/valhalla-foundation-bot.git
-    cd valhalla-foundation-bot
+   https://gitpod.io/workspaces
     ```
 
 2. Install dependencies:
