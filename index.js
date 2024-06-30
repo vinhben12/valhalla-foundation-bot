@@ -8,8 +8,8 @@ const accounts = JSON.parse(fs.readFileSync('accounts.json', 'utf-8'));
   process.stdout.write('\x1Bc');
   console.log('========================================='.cyan);
   console.log('=        Valhalla Foundation Bot        ='.cyan);
-  console.log('=      Created by HappyCuanAirdrop      ='.cyan);
-  console.log('=     https://t.me/HappyCuanAirdrop     ='.cyan);
+  console.log('=      Created by Dante                  ='.cyan);
+  console.log('=     ..............................     ='.cyan);
   console.log('========================================='.cyan);
   console.log();
   try {
